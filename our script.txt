@@ -93,7 +93,7 @@ local function findGuiAndSetText()
  
             if textLabel then
  
-                textLabel.Text = "UltimateName"
+                textLabel.Text = "Aura"
  
             end
  
